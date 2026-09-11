@@ -2,6 +2,8 @@
 
 Site com projetos e perfil profissional.
 
+![Screenshot do currículo](docs/screenshot.png)
+
 **Ao vivo:** https://ben10informatica.github.io/curriculo/
 
 Stack: React · TypeScript · Vite
