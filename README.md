@@ -2,6 +2,8 @@
 
 Site com projetos e perfil profissional.
 
+**Ao vivo:** https://ben10informatica.github.io/curriculo/
+
 Stack: React · TypeScript · Vite
 
 ## Rodar local
@@ -23,7 +25,7 @@ Edite `src/data/projects.ts` para nome, bio, links e lista de projetos.
 npm run build
 ```
 
-A pasta `dist/` sai pronta pra Vercel, Netlify ou GitHub Pages.
+Deploy automático via GitHub Pages a cada push na `main`.
 
 ## Relacionado
 
